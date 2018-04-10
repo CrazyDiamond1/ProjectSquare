@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectSquareGAME.Plugins", "ProjectSquareGAME.Plugins.csproj", "{AD37A3FF-91F0-BB35-CB3F-BE565E8DCC58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectSquareGAME", "ProjectSquareGAME.csproj", "{44CBC11E-7EA0-EE0F-FE34-C8CB9C7802C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{AD37A3FF-91F0-BB35-CB3F-BE565E8DCC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD37A3FF-91F0-BB35-CB3F-BE565E8DCC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD37A3FF-91F0-BB35-CB3F-BE565E8DCC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CBC11E-7EA0-EE0F-FE34-C8CB9C7802C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CBC11E-7EA0-EE0F-FE34-C8CB9C7802C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CBC11E-7EA0-EE0F-FE34-C8CB9C7802C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CBC11E-7EA0-EE0F-FE34-C8CB9C7802C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
