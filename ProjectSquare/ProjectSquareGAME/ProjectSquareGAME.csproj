@@ -84,6 +84,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ProjectSquare Assets\Scripts\Entities\BasicEnemyController.cs" />
     <Compile Include="Assets\ProjectSquare Assets\Scripts\Entities\BoxyControllerScript.cs" />
   </ItemGroup>
   <ItemGroup>
